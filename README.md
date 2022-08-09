@@ -1,6 +1,6 @@
 # platzi-poo-go
 Repo del curso de platzi Programación Orientada a Objetos
 
-## Definiendo Clases
+## Objetos: Dando vida a las clases
 
-Este branch corresponde al al clase 19 del curso de Platzi *Programación Orientada a Objetos*.
+Este branch corresponde al al clase 22 del curso de Platzi *Programación Orientada a Objetos*.
