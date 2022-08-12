@@ -6,7 +6,7 @@ import "log"
 type Car struct {
 	ID        int
 	License   string
-	Driver    string
+	Driver    Account
 	Passenger int
 }
 
